@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://katrinsmith.github.io/</loc>
     <lastmod>2021-07-21T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://katrinsmith.github.io/blog/</loc>
     <lastmod>2021-07-21T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2021/07/21/swimmer/</loc>
+    <loc>https://katrinsmith.github.io/blog/2021/07/21/swimmer/</loc>
     <lastmod>2021-07-21T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2021/07/17/electronic/</loc>
+    <loc>https://katrinsmith.github.io/blog/2021/07/17/electronic/</loc>
     <lastmod>2021-07-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2021/07/17/silicon/</loc>
+    <loc>https://katrinsmith.github.io/blog/2021/07/17/silicon/</loc>
     <lastmod>2021-07-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2021/06/20/claw/</loc>
+    <loc>https://katrinsmith.github.io/blog/2021/06/20/claw/</loc>
     <lastmod>2021-06-20T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2021/05/03/prostheticsforchildren/</loc>
+    <loc>https://katrinsmith.github.io/blog/2021/05/03/prostheticsforchildren/</loc>
     <lastmod>2021-05-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://katrinsmith.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://katrinsmith.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/story/</loc>
+    <loc>https://katrinsmith.github.io/story/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://katrinsmith.github.io/tags/</loc>
   </url>
 </urlset>

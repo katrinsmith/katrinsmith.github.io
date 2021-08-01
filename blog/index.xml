@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on AICP</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://katrinsmith.github.io/blog/</link>
     <description>Recent content in Blogs on AICP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jul 2021 21:49:20 +0200</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 21:49:20 +0200</lastBuildDate><atom:link href="https://katrinsmith.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swimming Device</title>
-      <link>http://localhost:1313/blog/2021/07/21/swimmer/</link>
+      <link>https://katrinsmith.github.io/blog/2021/07/21/swimmer/</link>
       <pubDate>Wed, 21 Jul 2021 21:49:20 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2021/07/21/swimmer/</guid>
+      <guid>https://katrinsmith.github.io/blog/2021/07/21/swimmer/</guid>
       <description>AICP is committed to producing unique devices for our clients in order to help them stay active and engaged. Jerlena Rittwage, a 14 year old girl from Calgary, Alberta, is an example of someone who wanted a device to help them with an activity that their standard devices could not provide assistance for. In this case, the activity was swimming and Jerlena explained that she had to adopt a certain method of swimming in order to compensate for her underdeveloped left hand.</description>
     </item>
     
     <item>
       <title>Electrical Prototype</title>
-      <link>http://localhost:1313/blog/2021/07/17/electronic/</link>
+      <link>https://katrinsmith.github.io/blog/2021/07/17/electronic/</link>
       <pubDate>Sat, 17 Jul 2021 13:47:08 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2021/07/17/electronic/</guid>
+      <guid>https://katrinsmith.github.io/blog/2021/07/17/electronic/</guid>
       <description>We decided to try adding motors to our claw mechanism prototype. We created some very basic prototypes to test if this idea has merit. An electrical prototype would remove the need for a child to actuate the prosthetic mechanically (using their wrist or shoulders). For small children, mechanical actuation can be challenging.
 A micro servo motor is used and is connected by a string to the claw mechanism where the cable is normally mounted.</description>
     </item>
     
     <item>
       <title>Slicone Molding for grip</title>
-      <link>http://localhost:1313/blog/2021/07/17/silicon/</link>
+      <link>https://katrinsmith.github.io/blog/2021/07/17/silicon/</link>
       <pubDate>Sat, 17 Jul 2021 13:47:08 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2021/07/17/silicon/</guid>
+      <guid>https://katrinsmith.github.io/blog/2021/07/17/silicon/</guid>
       <description>One challenge of 3D printed materials is that they are smooth and slippery. The hook prosthetic we made out of PLA plastic has trouble gripping smooth items. We wanted to find a way to increase its gripping ability. We considered gluing pieces of rubber, using grip coatings that are normally used for tools, and creating a layer of silicone around the claw mechanism.
 We have tried coatings in the past and they have not worked well for us.</description>
     </item>
     
     <item>
       <title>Hook Prosthetic</title>
-      <link>http://localhost:1313/blog/2021/06/20/claw/</link>
+      <link>https://katrinsmith.github.io/blog/2021/06/20/claw/</link>
       <pubDate>Sun, 20 Jun 2021 13:47:08 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2021/06/20/claw/</guid>
+      <guid>https://katrinsmith.github.io/blog/2021/06/20/claw/</guid>
       <description>After the Innovation 4 Health competition, we decided to start making a new prosthetic from scratch. Although the features we added to the competition prototype are interesting and useful, we wanted to focus on making a prototype that prioritizes function, simplicity, and is adaptable to many people. We also wanted to move away from wrist actuated designed (when the prosthetic hand closes when the wrist is flexed), since these put excessive pressure on the wrists.</description>
     </item>
     
     <item>
       <title>Prosthetics for Children</title>
-      <link>http://localhost:1313/blog/2021/05/03/prostheticsforchildren/</link>
+      <link>https://katrinsmith.github.io/blog/2021/05/03/prostheticsforchildren/</link>
       <pubDate>Mon, 03 May 2021 13:39:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2021/05/03/prostheticsforchildren/</guid>
+      <guid>https://katrinsmith.github.io/blog/2021/05/03/prostheticsforchildren/</guid>
       <description>Prosthetics have been documented as early as the 1500s and have since then been vastly improved and redesigned as technology has advanced.(1) However, despite the vast advancements in prosthetic engineering, there still remains significant rejection rates within prosthetics. While determining the frequency and causation for rejection of a prosthetic can be complicated, several attempts have been made to understand the frequency and reasons. In one of the largest reviews on upper-limb prosthetic rejection rates, it was found that on average, 1 in 5 prosthetic users reject their upper-limb prosthetic (2).</description>
     </item>
     
